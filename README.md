@@ -1,5 +1,5 @@
 # Sistemas Operacionais
-A seguinte pesquisa contém as principais informações sobre a evolução dos *Sistemas Operacionais*, tendo como foco principal o sistema *Windows*, suas características e curiosidades.
+A seguinte pesquisa contém as principais informações sobre a evolução dos *Sistemas Operacionais*, tendo como foco principal o sistema *Windows*, suas características e curiosidades. Ademais, conta com comandos e suas respectivas funções.
 
 Os **OS**, ou **Sistemas Operacionais**, são softwares fundamentais que gerenciam o *hardware* e o *software* de um computador ou dispositivo móvel. Eles atuam como uma ponte entre o usuário e o hardware, permitindo que os usuários interajam com o dispositivo de maneira eficiente. Exemplos populares de sistemas operacionais incluem *Windows*, *macOS*, *Linux* e *Android*.
 
@@ -55,6 +55,78 @@ Lançado em outubro de *2009*, o **Windows 7*** foi uma versão que corrigiu mui
 Lançado em julho de 2015, o **Windows 10** foi anunciado como *"a última versão do Windows"*, adotando um modelo de "serviço contínuo" em vez de lançamentos de versões individuais. O Windows 10 trouxe uma experiência mais *consolidada*, combinando elementos do *Windows 7* e do *Windows 8*. Ele reintroduziu o *menu Iniciar*, oferecendo uma mistura da sensação tradicional do Windows com algumas peças da aparência do Windows 8. O Windows 10 também trouxe recursos como a *assistente virtual Cortana*, a *loja de aplicativos unificada* e a *integração do Xbox* para jogos.
 
 ## Arquitetura do Windows;
+A Arquitetura do sistema operacional Windows é baseada em **camadas**, diversos componentes principais que são organizados hierarquicamente para garantir o funcionamento eficiente do sistema. Esses componentes incluem exemplos como *kernel*, *drivers de dispositivos*, *serviços* e *aplicativos*.
+
+### Kernel;
+O *kernel* é o *núcleo* do sistema operacional e é responsável por gerenciar recursos do sistema, como memória, processamento e comunicação entre programas e dispositivos.
+
+#### Interface Gráfica do Usuário (GUI)
+É a *forma visual de interação*, com janelas, ícones, menus e botões. Ela facilita o uso do sistema, tornando-o mais intuitivo e acessível.
+
+### Camada de Shell:
+É uma interface que permite ao usuário interagir com o sistema operacional, seja por linha de comando ou por interface gráfica. Em versões mais recentes do Windows, o `Windows Explorer` funciona como parte dessa camada, permitindo a gestão de arquivos, pastas e dispositivos conectados ao computador.
+
+### Camada de APIs:
+São ferramentas e funções que permitem aos desenvolvedores criar programas que interagem com o sistema operacional, facilitando o desenvolvimento sem a necessidade de lidar diretamente com o hardware. 
+```markdown
+> Win32 API e .NET Framework são exemplos de *APIs* usadas para criar aplicativos para o Windows.
+```
+
+### Camada de Gerenciamento de Hardware;
+Esta camada controla o acesso ao *hardware do computador*, como o processador, memória, discos rígidos, placas de vídeo, entre outros.
+
+#### Drivers de dispositivos;
+São uns dos `componentes essenciais` que permitem que o sistema operacional se comunique com o hardware. Cada dispositivo (como impressoras e placas de vídeo) necessita de um driver específico para funcionar corretamente com o sistema.
+
+### Sistema de Arquivos;
+É um sistema que define como os arquivos são armazenados, acessados e organizados em discos rígidos e outros dispositivos de armazenamento. 
+```markdown
+> NTFS (New Technology File System) é o sistema de arquivos principal do Windows.
+``` 
+ 
+### Segurança e Controle de Acesso;
+São recursos de *segurança*, como autenticação de usuários (com senhas ou biometria), e controle de acesso com base em permissões de usuário, garantindo que apenas pessoas autorizadas possam acessar certos recursos. 
+ ```markdown
+> Exemplos deles são: Windows Defender o Windows Firewall e o BitLocker.
+```
+
+### Serviços;
+São processos que rodam em segundo plano, *sem interação direta* com o usuário. Exemplos incluem serviços de rede, de impressão ou de atualização do sistema.
+
+### Threads;
+São as unidades menores de execução dentro de um processo. O Windows gerencia *múltiplas threads* para garantir que o sistema continue operando de forma eficiente e responsiva, permitindo a execução de vários processos ao mesmo tempo *(multitarefa)*.
+
+## Comandos e suas funções;
+```markdown
+ tasklist.
+ sfc /scannow.
+ shutdown.
+ ver.
+ format.
+ ping.
+```
+### 1. Tasklist;
+Lista os processos em execução no seu computador mostrando informações como *nome*, *identificador (PID)*, uso de *CPU* e *memória*, ajudando a identificar quais aplicativos estão ativos e consumindo recursos.
+
+### 2. Sfc/scannow;
+Verifica e repara arquivos do sistema corrompidos no Windows, verificando suas integridades e substituindo os arquivos corrompidos por versões "saudáveis".
+
+### 3. Shutdown; 
+Desligar ou reinicia o computador à força. Nele, é possível especificar parâmetros adicionais, como um temporizador para agendar o desligamento/reinicialização.
+
+### 4. Ver; 
+Exibe a versão do Windows instalado no computador. É útil para verificar rapidamente qual versão do sistema operacional está sendo usada e se há alguma atualização a ser feita.
+
+### 5. Format; 
+Formata um disco ou unidade de armazenamento. Ao executar esse comando, todos os dados no disco serão apagados permanentemente.
+
+### 6. Ping;
+É usado para verificar a conectividade entre o seu computador e um endereço IP ou nome de domínio específico. 
+
+
+
+
+
 
 
 
