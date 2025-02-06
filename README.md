@@ -1,1 +1,70 @@
-# Atividade1
+# Sistemas Operacionais
+A seguinte pesquisa contém as principais informações sobre a evolução dos *Sistemas Operacionais*, tendo como foco principal o sistema *Windows*, suas características e curiosidades.
+
+Os **OS**, ou **Sistemas Operacionais**, são softwares fundamentais que gerenciam o *hardware* e o *software* de um computador ou dispositivo móvel. Eles atuam como uma ponte entre o usuário e o hardware, permitindo que os usuários interajam com o dispositivo de maneira eficiente. Exemplos populares de sistemas operacionais incluem *Windows*, *macOS*, *Linux* e *Android*.
+
+## Evolução dos Sistemas Operacionais;
+
+Desde os primeiros sistemas operacionais desenvolvidos na década de *1950* até os sistemas operacionais modernos de hoje, a evolução dos sistemas operacionais tem sido um fator crítico no desenvolvimento da tecnologia da informação. Com os primeiros passos após a **Segunda Guerra Mundial** até os sistemas modernos, essa trajetória transformou o uso de computadores e moldou a forma como interagimos com a tecnologia no dia a dia.
+
+Nos anos **1950**, com máquinas primitivas, os programadores usavam a linguagem de máquina, uma tarefa complexa. *O IBM 704*, de 1956, foi um marco, permitindo a execução de programas de forma mais prática. Contudo, foi nos anos *1960* que o verdadeiro avanço ocorreu. Surgiram ferramentas sofisticadas, como tradutores simbólicos e sistemas de gerenciamento de entradas e saídas, dando origem à programação multitarefa e multiusuário. Foi também nessa década que o **Unix** nasceu, em *1969*, criado por *Ken Thompson*, *Dennis Ritchie* e *Rudd Canaday*. O Unix se destacou pela flexibilidade e eficiência, introduzindo conceitos fundamentais para os sistemas operacionais subsequentes.
+
+Nos anos **1970**, o Unix consolidou sua posição, sendo adaptado à linguagem *C* e se espalhando rapidamente por universidades e empresas. Essa adaptação foi essencial para o surgimento de sistemas como o *Linux* e o *MacOS*, ampliando o alcance e a relevância do Unix.
+
+Na década de **1980**, sistemas como o *MS-DOS*, *MacOS* e *Windows* ganharam destaque. A Microsoft desenvolveu uma versão do Unix chamada Xenix, mas abandonou-a em favor do MS-DOS. Ao mesmo tempo, o *Linux*, criado por Linus Torvalds, foi desenvolvido como um sistema livre e aberto, permitindo a colaboração global em seu crescimento. O Windows, com sua própria arquitetura, também se consolidou a partir dos anos 1990, com versões como o Windows 95 e 2000, tornando-se o sistema operacional **mais utilizado no mundo**.
+
+Enquanto isso, o Linux ganhou popularidade, principalmente no meio acadêmico e entre entusiastas da tecnologia, por ser aberto e gratuito. Sua adaptabilidade fez dele uma alternativa sólida ao Windows. Em 2001, a *Apple* adotou o modelo Unix para criar o MacOS X, e com isso, o Unix continuou sua trajetória como a base de um dos sistemas operacionais mais importantes e utilizados hoje em dia, ao lado do *Windows* e do *Linux.* 
+
+## Windows;
+É uma família de sistemas operacionais desenvolvidos, comercializados e vendidos pela *Microsoft*. É constituída por várias famílias de sistemas operacionais, as quais atendem a um determinado setor da indústria da computação.
+### Evolução;
+Desde o seu lançamento em 1985, o Windows passou por várias transformações significativas, evoluindo continuamente. Cada versão do Windows trouxe avanços tecnológicos, melhorias na interface gráfica e recursos inovadores, moldando a forma como a gente interage com o computador.
+#### Principais Versões;
+
+```markdown
+1. Windows 1 (1985).
+2. Windows 95 (1995).
+3. Windows 98 (1998).
+4. Windows XP (2001).
+5. Windows 7 (2009).
+6. Windows 10 (2015).
+```
+
+**1. Windows 1 (1985):**
+
+Lançado em novembro de *1985*, o **Windows 1** foi a primeira versão do Windows e teve um papel fundamental ao introduzir o conceito de *interface gráfica de usuário(GUI).* Embora ainda dependesse do *MS-DOS* como sistema operacional subjacente, o Windows 1 apresentava janelas sobrepostas, ícones e menus, proporcionando uma experiência mais intuitiva para os usuários em comparação com a linha de comando do MS-DOS.
+
+**2. Windows 95 (1995):**
+
+Lançado em agosto de *1995*, o **Windows 95** foi um marco importante na história do Windows. Ele apresentou uma série de recursos inovadores, incluindo a *barra de tarefas*, o *botão "Iniciar"* e o suporte ao *Plug-and-Play*, tornando a utilização do sistema mais conveniente e amigável. O Windows 95 também trouxe melhorias significativas na estabilidade e no suporte a aplicativos, estabelecendo uma *base sólida* para o sistema operacional.
+
+**3. Windows 98 (1998):**
+
+Lançado em junho de *1998*, o **Windows 98** trouxe aprimoramentos significativos em relação ao seu antecessor. Essa versão introduziu o suporte para unidades *USB*, permitindo que os usuários conectassem dispositivos externos com mais facilidade. Além disso, o Windows 98 apresentou a *Quick Launch Bar*, que permitia um acesso rápido aos aplicativos mais utilizados. Outra adição notável foi o *Internet Explorer 4*, que trouxe melhorias na navegação na web.
+
+**4. Windows XP (2001):**
+
+Lançado em outubro de *2001*, o **Windows XP** foi uma das versões mais populares e duradouras do Windows. Apresentando uma interface mais amigável e intuitiva, o XP foi elogiado por sua estabilidade e desempenho aprimorados em relação às edições anteriores. Além disso, o Windows XP introduziu recursos como a *restauração do sistema*, permitindo que os usuários voltassem a um estado anteriormente estável do sistema. O XP também trouxe avanços significativos na segurança, tornando-se uma escolha popular tanto para usuários *domésticos* quanto *corporativos*.
+
+**5. Windows 7 (2009):**
+
+Lançado em outubro de *2009*, o **Windows 7*** foi uma versão que corrigiu muitas das críticas do Windows Vista (2007) e se tornou extremamente popular entre os usuários. Ele apresentou uma barra de tarefas redesenhada, com suporte à "pinagem" de aplicativos, permitindo que os usuários acessem rapidamente seus programas favoritos. O Windows 7 também trouxe melhorias significativas no desempenho, estabilidade e compatibilidade, tornando-se uma escolha confiável para muitos usuários.
+
+**6. Windows 10 (2015):**
+
+Lançado em julho de 2015, o **Windows 10** foi anunciado como *"a última versão do Windows"*, adotando um modelo de "serviço contínuo" em vez de lançamentos de versões individuais. O Windows 10 trouxe uma experiência mais *consolidada*, combinando elementos do *Windows 7* e do *Windows 8*. Ele reintroduziu o *menu Iniciar*, oferecendo uma mistura da sensação tradicional do Windows com algumas peças da aparência do Windows 8. O Windows 10 também trouxe recursos como a *assistente virtual Cortana*, a *loja de aplicativos unificada* e a *integração do Xbox* para jogos.
+
+## Arquitetura do Windows;
+
+
+
+
+
+
+
+
+
+
+
+
+
