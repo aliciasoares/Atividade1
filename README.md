@@ -105,23 +105,23 @@ São as unidades menores de execução dentro de um processo. O Windows gerencia
  format.
  ping.
 ```
-### 1. Tasklist;
+#### 1. Tasklist;
 Lista os processos em execução no seu computador mostrando informações como *nome*, *identificador (PID)*, uso de *CPU* e *memória*, ajudando a identificar quais aplicativos estão ativos e consumindo recursos.
 
-### 2. Sfc/scannow;
+#### 2. Sfc/scannow;
 Verifica e repara arquivos do sistema corrompidos no Windows, verificando suas integridades e substituindo os arquivos corrompidos por versões "saudáveis".
 
-### 3. Shutdown; 
+#### 3. Shutdown; 
 Desligar ou reinicia o computador à força. Nele, é possível especificar parâmetros adicionais, como um temporizador para agendar o desligamento/reinicialização.
 
-### 4. Ver; 
-Exibe a versão do Windows instalado no computador. É útil para verificar rapidamente qual versão do sistema operacional está sendo usada e se há alguma atualização a ser feita.
+#### 4. Ver; 
+Exibe a versão do Windows instalado no computador. É útil para verificar rapidamente qual versão do sistema operacional está sendo usada e se há alguma *atualização* a ser feita.
 
-### 5. Format; 
-Formata um disco ou unidade de armazenamento. Ao executar esse comando, todos os dados no disco serão apagados permanentemente.
+#### 5. Format; 
+Formata um disco ou unidade de armazenamento. Ao executar esse comando, todos os dados no disco serão *apagados permanentemente*.
 
-### 6. Ping;
-É usado para verificar a conectividade entre o seu computador e um endereço IP ou nome de domínio específico. 
+#### 6. Ping;
+É usado para verificar a conectividade entre o seu computador e um endereço *IP* ou nome de domínio específico. 
 
 
 
