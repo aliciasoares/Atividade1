@@ -123,6 +123,16 @@ Formata um disco ou unidade de armazenamento. Ao executar esse comando, todos os
 #### 6. Ping;
 É usado para verificar a conectividade entre o seu computador e um endereço *IP* ou nome de domínio específico. 
 
+## Curiosidades sobre o Windows;
+**1.** O *Android* passou o Windows quando os smartphones se popularizaram.
+
+**2.** Windows não se chamaria Windows. Bill Gates iria chamar o sistema operacional de **“Interface Manager”**.
+
+**3.** Existem pessoas que ainda usam o **Windows XP.**
+
+**4.** Antigamente, o botão *“Iniciar”* era chamado de **“Sistema”** e durante os testes da Microsoft, as pessoas não sabiam o que fazer diante do PC.
+
+**5.** O Windows 10 tem um atalho para abrir o teclado de emoji. *(tecla Windows + ponto final (.).* 
 
 
 
