@@ -5,6 +5,8 @@ Os **OS**, ou **Sistemas Operacionais**, são softwares fundamentais que gerenci
 
 ## Evolução dos Sistemas Operacionais;
 
+![Sistemas Operacionais](https://media.licdn.com/dms/image/v2/C5612AQFaqBIwG6A_Bw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1603675513544?e=2147483647&v=beta&t=S0Tkn-kj5pLliHE0azdKDWwuaPBa4AmriN2y5PMZmZE)
+
 Desde os primeiros sistemas operacionais desenvolvidos na década de *1950* até os sistemas operacionais modernos de hoje, a evolução dos sistemas operacionais tem sido um fator crítico no desenvolvimento da tecnologia da informação. Com os primeiros passos após a **Segunda Guerra Mundial** até os sistemas modernos, essa trajetória transformou o uso de computadores e moldou a forma como interagimos com a tecnologia no dia a dia.
 
 Nos anos **1950**, com máquinas primitivas, os programadores usavam a linguagem de máquina, uma tarefa complexa. *O IBM 704*, de 1956, foi um marco, permitindo a execução de programas de forma mais prática. Contudo, foi nos anos *1960* que o verdadeiro avanço ocorreu. Surgiram ferramentas sofisticadas, como tradutores simbólicos e sistemas de gerenciamento de entradas e saídas, dando origem à programação multitarefa e multiusuário. Foi também nessa década que o **Unix** nasceu, em *1969*, criado por *Ken Thompson*, *Dennis Ritchie* e *Rudd Canaday*. O Unix se destacou pela flexibilidade e eficiência, introduzindo conceitos fundamentais para os sistemas operacionais subsequentes.
@@ -20,7 +22,7 @@ Enquanto isso, o Linux ganhou popularidade, principalmente no meio acadêmico e 
 ### Evolução;
 Desde o seu lançamento em 1985, o Windows passou por várias transformações significativas, evoluindo continuamente. Cada versão do Windows trouxe avanços tecnológicos, melhorias na interface gráfica e recursos inovadores, moldando a forma como a gente interage com o computador.
 #### Principais Versões;
-
+![Versões do Windows](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDF3u4rUQHia4Ko4wFThVWamO7leSwLttDzg&s)
 ```markdown
 1. Windows 1 (1985).
 2. Windows 95 (1995).
@@ -60,7 +62,7 @@ A Arquitetura do sistema operacional Windows é baseada em **camadas**, diversos
 ### Kernel;
 O *kernel* é o *núcleo* do sistema operacional e é responsável por gerenciar recursos do sistema, como memória, processamento e comunicação entre programas e dispositivos.
 
-#### Interface Gráfica do Usuário (GUI)
+### Interface Gráfica do Usuário (GUI)
 É a *forma visual de interação*, com janelas, ícones, menus e botões. Ela facilita o uso do sistema, tornando-o mais intuitivo e acessível.
 
 ### Camada de Shell:
@@ -97,6 +99,7 @@ São processos que rodam em segundo plano, *sem interação direta* com o usuár
 São as unidades menores de execução dentro de um processo. O Windows gerencia *múltiplas threads* para garantir que o sistema continue operando de forma eficiente e responsiva, permitindo a execução de vários processos ao mesmo tempo *(multitarefa)*.
 
 ## Comandos e suas funções;
+![Comandos do Windows](https://s2-techtudo.glbimg.com/mbCQvrCkAMTEV17j6aISNLNlNhg=/0x0:695x395/600x0/smart/filters:gifv():strip_icc()/i.s3.glbimg.com/v1/AUTH_08fbf48bc0524877943fe86e43087e7a/internal_photos/bs/2021/9/6/9PZQM0Qk68wNOdJp4UGQ/2013-12-19-type.png)
 ```markdown
  tasklist.
  sfc /scannow.
@@ -133,6 +136,21 @@ Formata um disco ou unidade de armazenamento. Ao executar esse comando, todos os
 **4.** Antigamente, o botão *“Iniciar”* era chamado de **“Sistema”** e durante os testes da Microsoft, as pessoas não sabiam o que fazer diante do PC.
 
 **5.** O Windows 10 tem um atalho para abrir o teclado de emoji. *(tecla Windows + ponto final (.).* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
