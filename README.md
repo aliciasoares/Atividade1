@@ -77,7 +77,7 @@ São ferramentas e funções que permitem aos desenvolvedores criar programas qu
 ### Camada de Gerenciamento de Hardware;
 Esta camada controla o acesso ao *hardware do computador*, como o processador, memória, discos rígidos, placas de vídeo, entre outros.
 
-#### Drivers de dispositivos;
+### Drivers de dispositivos;
 São uns dos `componentes essenciais` que permitem que o sistema operacional se comunique com o hardware. Cada dispositivo (como impressoras e placas de vídeo) necessita de um driver específico para funcionar corretamente com o sistema.
 
 ### Sistema de Arquivos;
